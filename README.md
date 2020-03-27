@@ -1,0 +1,1 @@
+Using The cat API in order to receive cat images.
